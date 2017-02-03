@@ -1,4 +1,5 @@
 ## Mailer with Jinja2 templating support support
+[![PyPI version](https://badge.fury.io/py/mailer-jinja2.svg)](https://badge.fury.io/py/mailer-jinja2)
 
 ```
 from mailer_jinja2.mail import Mail
